@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github](https://github.com/gn01675522/FM-order_summary_component)
-- Live Site URL: [Github Page](https://your-live-site-url.com)
+- Live Site URL: [Github Page](https://gn01675522.github.io/FM-order_summary_component/)
 
 ## My process
 
