@@ -1,0 +1,18 @@
+:root {
+  /* background color */
+  --bg-primary: #e0e8ff;
+  --bg-secondary: white;
+  --bg-tertiary: #f7f9ff;
+  --bg-quaternary: #382ae1;
+  --bg-quinary: #766cf1;
+  /* text color */
+  --text-color-primary: #1f2e55;
+  --text-color-secondary: #717fa6;
+  --text-color-tertiary: white;
+  --text-color-quaternary: #382ae1;
+  --text-color-quinary: #766cf1;
+  /* text weight */
+  --text-weight-lighter: 500;
+  --text-weight-medium: 700;
+  --text-weight-bold: 900;
+}
